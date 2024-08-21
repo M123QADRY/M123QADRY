@@ -4,7 +4,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/maazqadry/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maazqadry" height="27" width="36" /></a>
-<a href="https://www.leetcode.com/kartikeypachori1610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartikeypachori1610" height="27" width="36" /></a>
+<a href="https://leetcode.com/u/m123qadry/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="m123qadry" height="27" width="36" /></a>
 <a href="https://twitter.com/kartikeypachori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikeypachori" height="27" width="36" /></a>
 
 </p>
